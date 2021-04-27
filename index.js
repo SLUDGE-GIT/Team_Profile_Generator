@@ -63,7 +63,7 @@ const engineerQuestions = [
 // Hiring a manager
 inquirer.prompt(managerQuestions)
     .then((response) => {
-        const manager = new Manager(response.name, response.id, response.email, response.officeNumber);
+        const manager = new Manager(response.name, response.id, response.email, response.officeNum);
         teamArray.push(manager);
         determineEmployee();
     });
