@@ -4,6 +4,8 @@
 
 # Description
 This Project allows the user to create a small team and generate an html page based on their inputs
+![team generateraded page ](https://user-images.githubusercontent.com/67348654/116315620-648eed00-a776-11eb-9d8a-332bafa25b8e.jpg)
+
 
 # Table of Contents
 
